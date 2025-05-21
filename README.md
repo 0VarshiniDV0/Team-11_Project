@@ -27,7 +27,6 @@ To run this project locally:
  🎋Images of our project
  ![image](https://github.com/user-attachments/assets/f13d4e12-fb58-49fc-a485-0d5aa703b90f)
  ![image](https://github.com/user-attachments/assets/02a19a97-02b2-4e78-ada9-e298cd741e48)
- ![image](https://github.com/user-attachments/assets/10f3ad53-f22d-4fac-99e9-a10131bb4e99)
 
 
 Contact:
